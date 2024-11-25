@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+    .sticky-top{
+        position: relative;
+    }
+}
+body{
+    font-family: Roboto, sans-serif;
+}
+.section-tittle {
+    font-family: Sancreek, serif;
+}
+#cabecalho {
+    background-color: rgb(87, 40, 40);
+}
+.navbar-brand,
+.nav-link{
+    color: #fff;
+}
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #fff;
+}
+.nav-pills .nav-link.active,
+.navbar-toggler {
+    background-color: #fff;
+    color:#572828;
+}
+section div>h1{
+    font-size: 50px;
+}
+.txt-color,
+#btn-pills .nav-link:hover {
+    color:#572828;
+}
+.bg-color{
+    background-color: rgba(214, 169, 43, 0.411);
+}
+.img-size {
+    height: 50%;
+}
+#btn-pills .nav-link.active,
+form  >.btn,
+footer {
+    color: #fff;
+    background-color: #572828;
+}
