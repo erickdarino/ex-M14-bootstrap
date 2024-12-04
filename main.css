@@ -44,3 +44,6 @@ footer {
     color: #fff;
     background-color: #572828;
 }
+.nav-link:focus, .nav-link:hover {
+    color: #fff;
+}
